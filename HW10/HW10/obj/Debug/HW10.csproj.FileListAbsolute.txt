@@ -1,0 +1,9 @@
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW10\HW10\bin\Debug\HW10.exe.config
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW10\HW10\bin\Debug\HW10.exe
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW10\HW10\bin\Debug\HW10.pdb
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW10\HW10\obj\Debug\HW10.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW10\HW10\obj\Debug\Node.resources
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW10\HW10\obj\Debug\HW10.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW10\HW10\obj\Debug\HW10.csproj.GenerateResource.Cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW10\HW10\obj\Debug\HW10.exe
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW10\HW10\obj\Debug\HW10.pdb

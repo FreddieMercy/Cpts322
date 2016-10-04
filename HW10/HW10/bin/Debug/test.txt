@@ -1,0 +1,47 @@
+abandonee
+abandoner
+abandoners
+abandoning
+abandonment
+googols
+gooier
+gooiest
+gook
+gooks
+gooky
+goon
+gooney
+gooneys
+goonie
+pinata
+pinatas
+pinball
+pinballs
+pincer
+pincers
+pinch
+pinchbugs
+pinched
+pincher
+zygotes
+zygotic
+zymase
+zymogenic
+zymology
+zymolysis
+zymoplastic
+zymoscope
+zymurgy
+
+<Spreadsheet>
+<Cell row ="1" col="2"><Text>=C3</Text></Cell>
+<Cell row ="2" col="2"><Text>=C4</Text></Cell>
+<Cell row ="3" col="2"><Text>=C5</Text></Cell>
+<Cell row ="0" col="0"><Text>=B1</Text></Cell>
+<Cell row ="0" col="2"><Text>=C2</Text></Cell>
+<Cell row ="4" col="2"><Text>=C6</Text></Cell>
+<Cell row ="0" col="1"><Text>=B2</Text></Cell>
+<Cell row ="5" col="2"><Text>=C7</Text></Cell>
+<Cell row ="1" col="1"><Text>=C1</Text></Cell>
+<Cell row ="6" col="2"><Text>=A1</Text></Cell>
+</Spreadsheet>

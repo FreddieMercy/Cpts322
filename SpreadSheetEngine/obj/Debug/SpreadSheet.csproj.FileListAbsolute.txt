@@ -1,0 +1,10 @@
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\SpreadSheet\bin\Debug\SpreadSheet.dll
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\SpreadSheet\bin\Debug\SpreadSheet.pdb
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\SpreadSheet\obj\Debug\SpreadSheet.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\SpreadSheet\obj\Debug\SpreadSheet.dll
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\SpreadSheet\obj\Debug\SpreadSheet.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheet\bin\Debug\SpreadSheet.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheet\bin\Debug\SpreadSheet.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheet\obj\Debug\SpreadSheet.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheet\obj\Debug\SpreadSheet.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheet\obj\Debug\SpreadSheet.pdb

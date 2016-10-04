@@ -1,0 +1,14 @@
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\bin\Debug\HW8.exe.config
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\obj\Debug\HW8.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\obj\Debug\HW8.Form1.resources
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\obj\Debug\HW8.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\obj\Debug\HW8.csproj.GenerateResource.Cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\bin\Debug\HW8.exe
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\bin\Debug\HW8.pdb
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\bin\Debug\SpreadSheet.dll
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\bin\Debug\SpreadSheet.pdb
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\obj\Debug\HW8.exe
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW8\HW8\obj\Debug\HW8.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\HW8\bin\Debug\HW8.exe.config
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\HW8\obj\Debug\HW8.exe
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\HW8\obj\Debug\HW8.pdb

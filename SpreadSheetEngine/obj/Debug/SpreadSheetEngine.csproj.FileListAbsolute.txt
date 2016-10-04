@@ -1,0 +1,5 @@
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheetEngine\bin\Debug\SpreadSheet.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheetEngine\bin\Debug\SpreadSheet.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheetEngine\obj\Debug\SpreadSheetEngine.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheetEngine\obj\Debug\SpreadSheet.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts322\SpreadSheetEngine\obj\Debug\SpreadSheet.pdb
